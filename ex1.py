@@ -17,12 +17,12 @@ import pickle
 
 # CONSTANTS
 
-IP = '50.242.94.227'
-SNMP_PORT = 8061
+IP = 'X.X.X.X'
+SNMP_PORT = XXXX
 SNMP_CREDS = {
-	'user' : 'pysnmp',
-	'auth_key' : 'galileo1',
-	'encr_key' : 'galileo1'
+	'user' : '****',
+	'auth_key' : '****',
+	'encr_key' : '****'
 }
 OIDS = {
 	'run_last_changed' : '1.3.6.1.4.1.9.9.43.1.1.1.0',
