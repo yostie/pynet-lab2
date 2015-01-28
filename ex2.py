@@ -15,12 +15,12 @@ import time
 
 # CONSTANTS
 
-IP = '50.242.94.227'
-SNMP_PORT = 7961
+IP = 'X.X.X.X'
+SNMP_PORT = XXXX
 SNMP_CREDS = {
-	'user' : 'pysnmp',
-	'auth_key' : 'galileo1',
-	'encr_key' : 'galileo1'
+	'user' : '****',
+	'auth_key' : '****',
+	'encr_key' : '****'
 }
 OIDS = {
 	'ifDescr_fa4' : '1.3.6.1.2.1.2.2.1.2.5',
